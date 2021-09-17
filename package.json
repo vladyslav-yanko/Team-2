@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://vladyslav-yanko.github.io/Team-2",
+  "homepage": "https://vladyslav-yanko.github.io/Team-2/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Team-2/",
